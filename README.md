@@ -21,7 +21,7 @@
 5. sklearn (==0.15.2) - important!
 ### Create a virtual environment for this course
 1. Create a vitural environment
-   '''
+   ```
    create --name introNLP nltk=3.0 numpy scipy scikit-learn=0.15.2 nltk=3.0 numpy scipy scikit-learn=0.15.2
    ```
        package                    |            build
