@@ -35,7 +35,7 @@
 2. Activate this enviroment
 
    ```
-   source activate introNLP
+   activate introNLP
    ```
    
 3. Check versions for packages
@@ -52,9 +52,8 @@
    import scipy
    scipy.__version__
    
-   import klearn
-   klearn.__version__
-   
+   import sklearn
+   sklearn.__version__
    ```
 
 4. Deactivate for current virtual enviroment
