@@ -27,14 +27,21 @@
 
 ### Create a virtual environment for this course
 1. Create a vitural environment
+
    ```
    create --name introNLP nltk=3.0 numpy scipy scikit-learn=0.15.2 nltk=3.0 numpy scipy scikit-learn=0.15.2
    ```
+   
 2. Activate this enviroment
+
    ```
    source activate introNLP
    ```
+   
 3. Check versions for packages
+   * [Check version for NLTK and Scikit-Learn](https://codedump.io/share/trqm6WVMb8z2/1/how-to-check-which-version-of-nltk-scikit-learn-installed)
+   * [How to Check Version of Scipy](http://stackoverflow.com/questions/21385196/how-to-check-the-version-of-scipy)
+
    ```
    import nltk  
    nltk.__version__ 
@@ -49,8 +56,7 @@
    klearn.__version__
    
    ```
-   * [Check version for NLTK and Scikit-Learn](https://codedump.io/share/trqm6WVMb8z2/1/how-to-check-which-version-of-nltk-scikit-learn-installed)
-   * [How to Check Version of Scipy](http://stackoverflow.com/questions/21385196/how-to-check-the-version-of-scipy)
+
 4. Deactivate for current virtual enviroment
    ```
    deactivate
