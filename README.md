@@ -23,7 +23,6 @@
 ### Installation Reference
 * [Install NLTK from official site](http://www.nltk.org/install.html)
 * [Windows7 平台下Python+NLTK环境搭建](http://blog.csdn.net/u010784534/article/details/48847697)
-* [How to Check Version of Scipy](http://stackoverflow.com/questions/21385196/how-to-check-the-version-of-scipy)
 * [Install Scikit-Learn](http://scikit-learn.org/stable/install.html)
 
 ### Create a virtual environment for this course
@@ -37,13 +36,23 @@
    '''
 3. Check versions for packages
 ```
+   import nltk  
+   nltk.__version__ 
+   
    import numpy
    numpy.version.version
    
    import scipy
    scipy.__version__
    
+   import klearn
+   klearn.__version__
+   
 ```
+
+* [Check version for NLTK and Scikit-Learn](https://codedump.io/share/trqm6WVMb8z2/1/how-to-check-which-version-of-nltk-scikit-learn-installed)
+* [How to Check Version of Scipy](http://stackoverflow.com/questions/21385196/how-to-check-the-version-of-scipy)
+
 3. Deactivate for current virtual enviroment
    ```
    deactivate
