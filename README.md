@@ -1,6 +1,6 @@
 # Course Description
 * Course Name: ***Introduction to Natural Language Processing***
-* Instructor: ***Dragomir R. Radev***
+* Instructor: [***Dragomir R. Radev***](http://web.eecs.umich.edu/~radev/)
 * University: ***University of Michigan***
 * Suggested Readings
     * Daniel Jurafsky and James Martin - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
@@ -19,6 +19,7 @@
 3. NumPy (>= 1.6.1)
 4. SciPy (>= 0.9)
 5. sklearn (==0.15.2) - ***important!***
+
 ### Installation Reference
 * [Install NLTK from official site](http://www.nltk.org/install.html)
 * [Windows7 平台下Python+NLTK环境搭建](http://blog.csdn.net/u010784534/article/details/48847697)
