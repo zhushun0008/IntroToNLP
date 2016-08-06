@@ -24,6 +24,7 @@
 * [Install NLTK from official site](http://www.nltk.org/install.html)
 * [Windows7 平台下Python+NLTK环境搭建](http://blog.csdn.net/u010784534/article/details/48847697)
 * [Install Scikit-Learn](http://scikit-learn.org/stable/install.html)
+* [Installing specific version of packages from discussion forum of this course](https://www.coursera.org/threads/upiUoEHVEeaXnBKVQldqyw)
 
 ### Create a virtual environment for this course
 1. Create a vitural environment
